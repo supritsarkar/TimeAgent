@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.*
+
+# PM2 config and logs
+ecosystem.config.js
+pm2.log
+
+# OS/IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
